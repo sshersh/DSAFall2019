@@ -1,0 +1,99 @@
+create d370 queue
+pop d370
+create s893 stack
+create s746 queue
+create s527 stack
+pop s746
+push s746 I
+create d661 stack
+create d446 stack
+create d472 queue
+create i529 queue
+create i224 queue
+push s893 spider…
+push s746 one…
+pop s893
+create i89 queue
+create d74 queue
+push i89 94
+pop s746
+push d370 3.833
+pop d661
+pop s893
+push i224 46
+pop d446
+pop s746
+create d867 queue
+push s746 dips
+push s746 is
+create s922 queue
+create d145 stack
+create s919 queue
+pop i89
+pop d370
+pop i89
+pop s922
+create d476 queue
+push d476 0.589
+push i529 160
+push s922 say
+push d446 1.480
+create d804 stack
+pop d804
+pop d370
+create s726 stack
+push d145 0.84
+pop d370
+create s96 stack
+pop s919
+create d481 stack
+pop d370
+pop d867
+push s726 live.
+push d481 5.100
+push d74 4.977
+pop d472
+pop d481
+pop i224
+push d370 2.74
+create d968 queue
+create i483 queue
+pop d472
+push d446 8.699
+create d513 stack
+pop i483
+pop d472
+push s746 name.
+pop d74
+push d472 6.984
+push d446 4.56
+pop s919
+create s339 stack
+pop s893
+pop s726
+push s527 web.
+create s16 stack
+create s954 stack
+push d370 8.488
+push d472 4.459
+create d941 queue
+push d867 5.65
+push s919 deed
+create i575 stack
+create s524 queue
+create d25 queue
+create i778 queue
+pop i575
+create s13 queue
+create d617 stack
+create s95 stack
+push d804 1.262
+pop s524
+push i224 943
+create d705 queue
+push d145 4.836
+pop s726
+pop s524
+push i89 273
+create s178 stack
+create s277 stack
